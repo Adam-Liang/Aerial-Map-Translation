@@ -40,6 +40,6 @@ If you use any part of our research, please consider citing:
 
 ## Acknowledgement
 Our work and implementations are inspired by following projects:
-[ESTRNN](https://github.com/phillipi/pix2pix)
+[pix2pix](https://github.com/phillipi/pix2pix)
 [pix2pixHD](https://github.com/NVIDIA/pix2pixHD)
 [DeepLabv3+](https://github.com/tensorflow/models/tree/master/research/deeplab)

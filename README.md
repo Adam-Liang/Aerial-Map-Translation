@@ -4,10 +4,9 @@ This is the code for Translation of Aerial Image Into Digital Map via Discrimina
 
 ## Dataset
 
+Our dataset AIDOMG can be donwloaded from [here](https://pan.baidu.com/s/1HsludHYqlHtjTPPenP-W2w) with code "d8wf".
 
 ## Code
-
-Our dataset AIDOMG can be donwloaded from [here](https://pan.baidu.com/s/1HsludHYqlHtjTPPenP-W2w) with code "d8wf".
 
 ### Prerequisites
 
